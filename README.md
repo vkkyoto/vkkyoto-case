@@ -1,4 +1,8 @@
-# vkkyoto-case![image (2)](https://user-images.githubusercontent.com/126489638/229807167-99037e1c-eb84-4c04-b9e5-51bb260c50a1.png)
+Skrypt nie był pisany przezemnie ja zrobiłem tylko Ui i zoptymalizowałem go
+
+
+
+![image (2)](https://user-images.githubusercontent.com/126489638/229807167-99037e1c-eb84-4c04-b9e5-51bb260c50a1.png)
 
 
 Skrypt posiada optymalizacje 0.00ms
